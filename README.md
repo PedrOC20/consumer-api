@@ -8,6 +8,14 @@ sqlserver
 rails v7.0.8.3
 ```
 
+### Add JSON file
+
+Add the json file to read in the following path: 
+```bash 
+$ lib/data/data.json
+ ```
+
+
 ### To run the main app:
 
 Rename .env.example to .env and set variables

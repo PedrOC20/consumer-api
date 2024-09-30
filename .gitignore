@@ -30,3 +30,6 @@
 
 #ENV
 .env
+
+# Ignore JSON File
+lib/data/data.json
