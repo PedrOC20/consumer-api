@@ -1,0 +1,4 @@
+:concurrency: 10 # Number of workers per machine
+
+:queues:
+  - default
